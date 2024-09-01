@@ -72,7 +72,9 @@ In this project we have made the foolowing things :
 - Learn to tackle problems and how to keep our-self motivated.
   
 ## Team Members : 
-
+HARSH PATEL 
+DIVY PATEL 
+DEV OZA
 
 
 
